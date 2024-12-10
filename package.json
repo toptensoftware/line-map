@@ -1,0 +1,23 @@
+{
+  "name": "@toptensoftware/line-map",
+  "version": "0.0.5",
+  "description": "Convert text file offsets to line:column and vice versa",
+  "main": "LineMap.js",
+  "type": "module",
+  "scripts": {},
+  "author": "Topten Software",
+  "contributors": [
+    {
+      "name": "Brad Robinson",
+      "email": "contact@toptensoftware.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toptensoftware/line-map.git"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@toptensoftware/binary-search": "github:toptensoftware/binary-search"
+  }
+}
